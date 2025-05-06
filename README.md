@@ -1,4 +1,4 @@
-# Parcial 3
+# Parcial 2
 <p>
 En este documento se muestra los distintos métodos que se utilizaron para crear la API
 </p>
