@@ -4,7 +4,7 @@ En este documento se muestra los distintos métodos que se utilizaron para crear
 </p>
 
 
-#####Este método GET verifica cuántos envíos tiene un usuario disponibles, cuántos ha usado, cuánto ha gastado en total en dólares y cuál es su saldo restante.
+###Este método GET verifica cuántos envíos tiene un usuario disponibles, cuántos ha usado, cuánto ha gastado en total en dólares y cuál es su saldo restante.
 
 ```javascript
 router.get('/usuario/:usuarioId/disponibles', async (req, res) => {
